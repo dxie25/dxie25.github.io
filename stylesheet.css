@@ -1,3 +1,39 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif;
 }
+
+.center {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+div .section-daniel {
+    background-color: lightblue;
+}
+
+div .section-sophia {
+    background-color: lightsalmon;
+}
+
+.italics {
+    font-style: italic;
+}
+
+a:hover {
+    color: white;
+}
+
+#hire-text {
+    font-size: xx-small;
+    font-family: sans-serif;
+}
+
+div .image-container-4th {
+    width: 25%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
